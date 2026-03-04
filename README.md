@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there, I'm Brandon 👋
 
-<!--
-**BranTK-dev/BranTK-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a final-year **Mathematics and Computer Science** student at **UNISA**. I enjoy solving complex logic problems and building high-performance software that looks as good as it runs.
 
-Here are some ideas to get you started:
+###  What I'm currently working on:
+- **C++/Qt Development:** Building tools that visualize data and algorithm performance.
+- **Math Modeling:** Applying Numerical Methods and Calculus to software solutions.
+- **Bridge Pipelines:** Learning how to make Python and C++ talk to each other for better automation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###  Tech Stack:
+- **Languages:** C++ (Primary), Python (Scripting), SQL
+- **Frameworks:** Qt 6 (Widgets/Charts)
+- **Tools:** Git, Linux, Qt Creator
+
+- 📍 Based in South Africa

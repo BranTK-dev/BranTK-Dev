@@ -22,6 +22,7 @@ Each project is designed to demonstrate real software engineering practices, inc
 ### Languages
 - **C++** (Primary)
 - **SQL**
+- **C#**
 - **Python** (Basic)
 
 ### Frameworks & Libraries

@@ -11,7 +11,7 @@ I'm currently building a portfolio of professional desktop applications from the
 | Project | Status |
 |---------|--------|
 | 💰 Personal Finance Manager | 🟢 Complete |
-| 🔐 Password Manager | 🟢 In Progress |
+| 🔐 Password Manager | ⌛️ In Progress |
 | 💻 Mini Code Editor | 🔵 Planned |
 | 💬 Chat Application | 🔵 Planned |
 

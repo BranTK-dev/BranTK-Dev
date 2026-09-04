@@ -11,8 +11,7 @@ I'm currently building a portfolio of professional desktop applications from the
 | Project | Status |
 |---------|--------|
 | 💰 Personal Finance Manager | 🟢 Complete |
-| 🔐 Password Manager | ⌛️ In Progress |
-| 💻 Mini Code Editor | 🔵 Planned |
+| 🔐 Password Manager | 🟢 Complete |
 | 💬 Chat Application | 🔵 Planned |
 
 Each project is designed to demonstrate real software engineering practices, including planning, architecture, clean code, version control, documentation, and testing.
